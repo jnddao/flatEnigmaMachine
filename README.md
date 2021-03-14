@@ -1,8 +1,9 @@
 # flatEnigmaMachine
 A python app based on Kevin's enigma machine found [here.](https://www.youtube.com/watch?v=UKbP3Rjxhy0) 
 After seeing this machine at work in one of my security engineering courses, I decided to see how hard it would be to code.  
-Turns out, its not that bad!  
-Note that this small script only supports words and not long sentences with punctuation!
+Turns out, its not that bad! 
+   
+**Note that this small script only supports words and not long sentences with punctuation!**
 
 ## Table of contents
 <ol>
