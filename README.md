@@ -8,7 +8,10 @@ Turns out, its not that bad!
 <ol>
     <li> <a href="#Getting-Started">Getting Started</a> </li>
     <li> <a href="#Usage">Usage</a> 
-</ol>
+    <li> <a href="#Licence">Licence</a> 
+    <li> <a href="#Contributing">Contributing</a> 
+</ol>  
+
 ## Getting Started
 To run this app ensure that you
 - have python installed and that environment values have been set to allow you turn python from a command line  
@@ -32,4 +35,11 @@ python3 enigma.py
 and follow the prompts. 
 
 Ensure that all text requirements are met as error handling is not supported yet (the app has been very quickly put together so please excuse the tardiness).  
+  
 
+## Licence  
+This repo has been distributed with the MIT Licence. See [Licence](./LICENCE) for more information  
+  
+  
+## Contributing  
+Feel free to form the project and open a pull req if you want. I just made this for fun
