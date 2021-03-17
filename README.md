@@ -38,7 +38,7 @@ Ensure that all text requirements are met as error handling is not supported yet
   
 
 ## Licence  
-This repo has been distributed with the MIT Licence. See [Licence](LICENCE) for more information  
+This repo has been distributed with the MIT Licence. See [Licence](https://github.com/jnddao/flat-enigma-machine/blob/main/LICENSE) for more information  
   
   
 ## Contributing  
