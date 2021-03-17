@@ -15,7 +15,7 @@ After seeing this machine at work in one of my security engineering courses, I d
 ## Getting Started
 To run this app ensure that you
 - have python installed and that environment values have been set to allow you turn python from a command line  
-- have a shell that you can run it from  
+- have a terminal (like powershell) that you can run it from  
 
 Thats it!
 
